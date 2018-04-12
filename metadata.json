@@ -1,0 +1,6 @@
+{
+	"name": "Tiles",
+	"description": "Give GNOME shell the features of a tiling window manager.",
+	"uuid": "tiles@mike.pc",
+	"shell-version": ["3.26.2"]
+}
